@@ -1,0 +1,6 @@
+Description
+This Python script scrapes news articles related to the share price of Reliance Industries from Google News and performs sentiment analysis on the content of these articles.
+The purpose of this code is to provide insights into the sentiment surrounding Reliance Industries' share price by analyzing recent news articles.
+The script utilizes the GoogleNews library to fetch news articles, extracts the content from the articles' HTML pages using BeautifulSoup, and then analyzes the sentiment of the extracted content. 
+Sentiment analysis is performed to determine whether the tone of the news articles is positive, negative, or neutral regarding Reliance Industries' share price.
+This tool can be useful for investors, financial analysts, or anyone interested in tracking public sentiment regarding Reliance Industries' performance in the stock market.
